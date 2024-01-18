@@ -14,15 +14,15 @@
 ### DevOps
 #### CI/CD 
 <p align="left">
-<a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Gitlab"</a>
-<a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="Github Actions"</a>
-<a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="Bitbucket"</a>
-<a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins"</a>
+<a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Gitlab"/></a>
+<a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="Github Actions"/></a>
+<a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="Bitbucket"/></a>
+<a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins"/></a>
 </p>
   
 #### Monitoring
 <p align="left">
-<a href=" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/opentelemetry/horizontal/color/opentelemetry-horizontal-color.svg" alt="Opentelemtry"</a>
+<a href=" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/opentelemetry/horizontal/color/opentelemetry-horizontal-color.svg" alt="Opentelemtry" width="64" height="64" /></a>
 <a href=" target="_blank"> <img src="" alt="Grafana"</a>
 <a href=" target="_blank"> <img src="" alt="Grafana"</a>
 </p>
