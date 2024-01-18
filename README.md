@@ -12,6 +12,19 @@
   </p>
   
 ### DevOps
+#### CI/CD 
+<a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Gitlab"</a>
+<a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="Github Actions"</a>
+<a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-official.svg" alt="Bitbucket"</a>
+<a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-official.svg" alt="Jenkins"</a>
+#### Monitoring
+<a href=" target="_blank"> <img src="" alt="Opentelemtry"</a>
+<a href=" target="_blank"> <img src="" alt="Grafana"</a>
+<a href=" target="_blank"> <img src="" alt="Grafana"</a>
+#### Infa As A code 
+#### Configuration Managment system
+#### Testing 
+
 
 ### DataOps
 
