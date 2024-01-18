@@ -13,10 +13,12 @@
   
 ### DevOps
 #### CI/CD 
+<p align="left">
 <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Gitlab"</a>
 <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="Github Actions"</a>
 <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-official.svg" alt="Bitbucket"</a>
 <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-official.svg" alt="Jenkins"</a>
+</p>
 #### Monitoring
 <a href=" target="_blank"> <img src="" alt="Opentelemtry"</a>
 <a href=" target="_blank"> <img src="" alt="Grafana"</a>
