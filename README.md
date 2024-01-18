@@ -22,7 +22,7 @@
   
 #### Monitoring
 <p align="left">
-<a href=" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/opentelemetry/stacked/black/opentelemetry-stacked-black.svg" alt="Opentelemtry" width="150" height="150" /></a>
+<a href=" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/opentelemetry/icon/color/opentelemetry-icon-color.svg" alt="Opentelemtry" width="150" height="150" /></a>
 <a href=" target="_blank"> <img src="" alt="Grafana"</a>
 <a href=" target="_blank"> <img src="" alt="Grafana"</a>
 </p>
