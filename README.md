@@ -5,10 +5,10 @@
 
 ### Cloud 
   <p align="left">
-    <a href=https://cloud.google.com/?hl=en" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google cloud platform" width="40" height="40"/> </a>
+    <a href=https://cloud.google.com/?hl=en" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google cloud platform" </a>
     <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS"</a>
-    <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/openstack/openstack-ar21.svg" alt="Openstack" width="40" height="40"/> </a>  
-    <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-ar21.svg" alt="IBM Cloud" width="40" height="40"/> </a>  
+    <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/openstack/openstack-ar21.svg" alt="Openstack" </a>  
+    <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-ar21.svg" alt="IBM Cloud" </a>  
   </p>
   
 ### DevOps
