@@ -19,8 +19,9 @@
 <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="Bitbucket"</a>
 <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins"</a>
 </p>
+  
 #### Monitoring
-<a href=" target="_blank"> <img src="" alt="Opentelemtry"</a>
+<a href=" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/opentelemetry/horizontal/color/opentelemetry-horizontal-color.svg" alt="Opentelemtry"</a>
 <a href=" target="_blank"> <img src="" alt="Grafana"</a>
 <a href=" target="_blank"> <img src="" alt="Grafana"</a>
 #### Infa As A code 
