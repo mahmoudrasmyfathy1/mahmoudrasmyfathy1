@@ -5,7 +5,7 @@
 
 ### Cloud 
   <p align="left">
-    <a href=https://cloud.google.com/?hl=en" target="_blank"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/google_cloud/google_cloud-icon.svg" alt="Google cloud platform" width="40" height="40"/> </a>
+    <a href=https://cloud.google.com/?hl=en" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google cloud platform" width="40" height="40"/> </a>
     <a href=https://cloud.google.com/?hl=en" target="_blank"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/google_cloud/google_cloud-icon.svg" alt="Google cloud platform" width="40" height="40"/> </a>
     <a href=https://cloud.google.com/?hl=en" target="_blank"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/google_cloud/google_cloud-icon.svg" alt="Google cloud platform" width="40" height="40"/> </a>
   </p>
