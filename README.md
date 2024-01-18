@@ -21,9 +21,12 @@
 </p>
   
 #### Monitoring
+<p align="left">
 <a href=" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/opentelemetry/horizontal/color/opentelemetry-horizontal-color.svg" alt="Opentelemtry"</a>
 <a href=" target="_blank"> <img src="" alt="Grafana"</a>
 <a href=" target="_blank"> <img src="" alt="Grafana"</a>
+</p>
+
 #### Infa As A code 
 #### Configuration Managment system
 #### Testing 
