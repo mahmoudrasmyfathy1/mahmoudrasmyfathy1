@@ -3,8 +3,7 @@
 
 ## 🛠 Technical Stack
 <details>
-  <summary><b>&nbsp;&nbsp;Cloud&nbsp;</b></summary>
-  <br/>
+  <summary><b>&nbsp;&nbsp;Cloud&nbsp;</b></summary><br/>
   <p align="left">
     <a href=https://cloud.google.com/?hl=en" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google cloud platform" width="40" height="40"/></a>
     <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/></a>
@@ -13,15 +12,18 @@
   </p>
 </details>
 
-### Programming Languages
+<details>
+<summary><b>&nbsp;&nbsp;Cloud&nbsp;</b></summary><br/>
 <p align="left">
 <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/></a>  
 <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/></a>  
 <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="Golang" width="40" height="40"/></a>  
 <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="Javascript" width="40" height="40"/></a>  
 </p>
+</details>
 
-### DevOps Stack
+<details>
+<summary><b>&nbsp;&nbsp;DevOps Stack&nbsp;</b></summary><br/>
 <p align="left">
 <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Gitlab" width="40" height="40"/></a>
 <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="Github Actions" width="40" height="40"/></a>
@@ -44,8 +46,10 @@
 <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="Helm" width="40" height="40" /></a>
 <a href=" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/backstage/icon/black/backstage-icon-black.svg" alt="Backstage" width="40" height="40" /></a>
 </p>
+</details>
 
-### DataOps
+<details>
+<summary><b>&nbsp;&nbsp;DataOps Stack&nbsp;</b></summary><br/>
 <p align="left">
 <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="Snowflake" width="40" height="40"/></a>
 <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="Bigquery" width="40" height="40"/></a>
@@ -55,13 +59,15 @@
 <a href=" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/dbt-icon.svg" alt="DBT" width="40" height="40"/></a>
 <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/></a>
 </p>
+</details>
 
-### MLOps
+<details>
+<summary><b>&nbsp;&nbsp;MLOps Stack&nbsp;</b></summary><br/>
 <p align="left">
   <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="Snowflake"/></a>
   <a href=" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/hugging-face-icon.svg" alt="Huggingface" width="40" height="40"/></a>
 </p>
-
+</details>
 
 
 
