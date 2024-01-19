@@ -40,6 +40,8 @@
 #### Testing 
 <p align="left">
 <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman"</a>
+<a href=" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/e/e6/Apache_JMeter_Logo.svg" alt="Postman" width="64" height="64"/></a>
+  
 </p>
 
 ### DataOps
@@ -55,7 +57,7 @@
 ### MLOps
 <p align="left">
   <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="Snowflake"/></a>
-  <a href=" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/hugging-face-icon.svg" alt="Huggingface" width="64" height="64" /></a>
+  <a href=" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/hugging-face-icon.svg" alt="Huggingface" width="64" height="64"/></a>
 </p>
 
 ### Other
