@@ -50,7 +50,7 @@
 <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Apache_spark"/></a>
 <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_beam/apache_beam-icon.svg" alt="Apache Beam"/></a>
 <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka"/></a>
-<a href=" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/dbt-icon.svg" alt="DBT"/></a>
+<a href=" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/dbt-icon.svg" alt="DBT" width="64" height="64"/></a>
 <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL"/></a>
 </p>
 
