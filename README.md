@@ -53,6 +53,10 @@
 
 
 ### MLOps
+<p align="left">
+  <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="Snowflake"</a>
+  <a href=" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/hugging-face.svg" alt="Huggingface"</a>
+</p>
 
 ### Other
 
