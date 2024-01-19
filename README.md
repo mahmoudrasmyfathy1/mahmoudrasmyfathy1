@@ -43,12 +43,20 @@
 </p>
 
 ### DataOps
+<p align="left">
+<a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="Snowflake"</a>
+<a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="Bigquery"</a>
+<a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Apache_spark"</a>
+<a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_beam/apache_beam-icon.svg" alt="Apache Beam"</a>
+  <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka"</a>
+</p>
+
 
 ### MLOps
 
 ### Other
 
 
-<a href=" target="_blank"> <img src="" alt="DataDog"</a>
+
 
 
