@@ -29,6 +29,11 @@
 <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/chefio/chefio-icon.svg" alt="chef"</a>
 <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman"</a>
 <a href=" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/e/e6/Apache_JMeter_Logo.svg" alt="Postman" width="90" height="64"/></a>  
+<a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker"</a>
+<a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes"</a>
+<a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="Helm" /></a>
+<a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="Helm" /></a>
+<a href=" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/backstage/icon/black/backstage-icon-black.svg" alt="Backstage" /></a>
 </p>
 
 ### DataOps
