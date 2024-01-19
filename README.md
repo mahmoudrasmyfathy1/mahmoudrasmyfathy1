@@ -11,37 +11,24 @@
     <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-ar21.svg" alt="IBM Cloud" </a>  
   </p>
   
-### DevOps
-#### CI/CD 
+### DevOps Stack
+
 <p align="left">
 <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Gitlab"/></a>
 <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="Github Actions"/></a>
 <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="Bitbucket"/></a>
 <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins"/></a>
-</p>
-  
-#### Monitoring
-<p align="left">
 <a href=" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/opentelemetry/icon/color/opentelemetry-icon-color.svg" alt="Opentelemtry" width="64" height="64"/></a>
 <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana"</a>
 <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus"</a>
 <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_cloudwatch/amazon_cloudwatch-icon.svg" alt="aws_cloudwatch"</a>
 <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" alt="DataDog"</a>
 <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_stackdriver/google_stackdriver-icon.svg" alt="stackdriver"</a>  
-</p>
-
-#### Infa As A code & Configuration Managment system
-<p align="left">
-  <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform"</a>
-  <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible"</a>
-  <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/chefio/chefio-icon.svg" alt="chef"</a>
-</p>
-    
-#### Testing 
-<p align="left">
+<a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform"</a>
+<a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible"</a>
+<a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/chefio/chefio-icon.svg" alt="chef"</a>
 <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman"</a>
-<a href=" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/e/e6/Apache_JMeter_Logo.svg" alt="Postman" width="90" height="64"/></a>
-  
+<a href=" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/e/e6/Apache_JMeter_Logo.svg" alt="Postman" width="90" height="64"/></a>  
 </p>
 
 ### DataOps
