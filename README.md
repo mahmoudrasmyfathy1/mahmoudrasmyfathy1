@@ -25,6 +25,9 @@
 <a href=" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/opentelemetry/icon/color/opentelemetry-icon-color.svg" alt="Opentelemtry" width="64" height="64"/></a>
 <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana"</a>
 <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus"</a>
+<a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_cloudwatch/amazon_cloudwatch-icon.svg" alt="aws_cloudwatch"</a>
+<a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" alt="DataDog"</a>
+<a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_stackdriver/google_stackdriver-icon.svg" alt="stackdriver"</a>  
 </p>
 
 #### Infa As A code 
