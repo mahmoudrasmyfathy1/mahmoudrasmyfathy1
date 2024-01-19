@@ -5,14 +5,21 @@
 
 ### Cloud 
   <p align="left">
-    <a href=https://cloud.google.com/?hl=en" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google cloud platform" </a>
-    <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS"</a>
-    <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/openstack/openstack-ar21.svg" alt="Openstack" </a>  
-    <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-ar21.svg" alt="IBM Cloud" </a>  
+    <a href=https://cloud.google.com/?hl=en" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google cloud platform" /></a>
+    <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" /></a>
+    <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/openstack/openstack-ar21.svg" alt="Openstack" /></a>  
+    <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-ar21.svg" alt="IBM Cloud" /></a>  
   </p>
-  
-### DevOps Stack
 
+### Programming Languages
+<p align="left">
+<a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" /></a>  
+<a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" /></a>  
+<a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="Golang" /></a>  
+<a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="Javascript" /></a>  
+</p>
+
+### DevOps Stack
 <p align="left">
 <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Gitlab"/></a>
 <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="Github Actions"/></a>
@@ -52,7 +59,7 @@
   <a href=" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/hugging-face-icon.svg" alt="Huggingface" width="64" height="64"/></a>
 </p>
 
-### Other
+
 
 
 
