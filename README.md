@@ -30,10 +30,17 @@
 <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_stackdriver/google_stackdriver-icon.svg" alt="stackdriver"</a>  
 </p>
 
-#### Infa As A code 
-#### Configuration Managment system
+#### Infa As A code & Configuration Managment system
+<p align="left">
+  <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform"</a>
+  <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible"</a>
+  <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/chefio/chefio-icon.svg" alt="chef"</a>
+</p>
+    
 #### Testing 
-
+<p align="left">
+<a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman"</a>
+</p>
 
 ### DataOps
 
@@ -42,6 +49,6 @@
 ### Other
 
 
-
+<a href=" target="_blank"> <img src="" alt="DataDog"</a>
 
 
