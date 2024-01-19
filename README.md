@@ -13,7 +13,7 @@
 </details>
 
 <details>
-<summary><b>&nbsp;&nbsp;Cloud&nbsp;</b></summary><br/>
+<summary><b>&nbsp;&nbsp;Programming Languages&nbsp;</b></summary><br/>
 <p align="left">
 <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/></a>  
 <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/></a>  
