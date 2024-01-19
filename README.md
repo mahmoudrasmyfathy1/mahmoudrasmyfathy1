@@ -4,13 +4,14 @@
 ## 🛠 Technical Stack
 
 ### Cloud 
+<details>
   <p align="left">
     <a href=https://cloud.google.com/?hl=en" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google cloud platform" width="40" height="40"/></a>
     <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/></a>
     <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/openstack/openstack-icon.svg" alt="Openstack" width="40" height="40"/></a>  
     <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-icon.svg" alt="IBM Cloud" width="40" height="40"/></a>  
   </p>
-
+</details>
 ### Programming Languages
 <p align="left">
 <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/></a>  
