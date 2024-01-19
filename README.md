@@ -33,7 +33,7 @@
 <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes"</a>
 <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="Helm" /></a>
 <a href=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="Helm" /></a>
-<a href=" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/backstage/icon/black/backstage-icon-black.svg" alt="Backstage" /></a>
+<a href=" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/backstage/icon/black/backstage-icon-black.svg" alt="Backstage" width="64" height="64" /></a>
 </p>
 
 ### DataOps
